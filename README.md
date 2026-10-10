@@ -26,7 +26,7 @@ Pada praktikum ini, saya mempelajari penggunaan HTML lanjutan untuk membuat hala
 
 Pada bagian ini, saya membuat tabel data mahasiswa menggunakan elemen HTML `table`, `tr`, `th`, dan `td`. Saya juga membuat tabel nilai praktikum yang menampilkan nilai mahasiswa dan rata-rata.
 
-![Hasil Tabel Data Mahasiswa](tabel-mahasiswa.png)
+![Hasil Tabel Data Mahasiswa](tabel-mahasiswa.jpeg)
 
 ## 2. Form Registrasi Mahasiswa
 
