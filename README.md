@@ -77,7 +77,7 @@ Lab2Web/
 ├── README.md
 ├── index.html
 ├── biodata.html
-├── tabel-mahasiswa.png
+├── tabel-mahasiswa.jpeg
 ├── formulir.png
 ├── select-textarea-validasi.png
 ├── semantic-audio.png
